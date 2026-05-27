@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercarse",
+        "uuid": 18464211,
+        "checksum": "s4i6zc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
